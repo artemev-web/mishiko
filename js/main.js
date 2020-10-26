@@ -178,7 +178,7 @@ $(document).ready(function() {
 									 })
 									 .always(function(response) {
 										//ссылка на страницу "спасибо" - редирект
-										location.href = 'thanks.html';
+										location.href = 'https://artemev-web.github.io/mishiko/thanks';
 								  });
 							 break;
                         break;
